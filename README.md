@@ -26,14 +26,14 @@ Sou **a única estagiária do time Comercial/Produto**, atuando diretamente com 
 
 ##  Principais Entregas e Impacto Real
 
-### 🔹 1. Pipelines e ETL usando SQL + Python + Databricks
+###  1. Pipelines e ETL usando SQL + Python + Databricks
 - Extração, transformação e modelagem de dados para ambas as empresas.
 - Criação e manutenção de notebooks.
 - Auditoria e validação da qualidade dos dados.
 - Correção de falhas em jobs automáticos.
 - Envio de dados para BigQuery e Sheets.
 
-### 🔹 2. Automação da Consulta Interna de Produtos (Sheets + AppScript)
+###  2. Automação da Consulta Interna de Produtos (Sheets + AppScript)
 Problema original:
 
 - 6 abas confusas, difíceis de usar.  
@@ -49,7 +49,7 @@ Minha solução:
 - Tempo de uso caiu para **1 minuto**.  
 - Projeto muito elogiado internamente.
 
-### 🔹 3. Central de Inteligência (Looker + Sheets + Notebooks)
+###  3. Central de Inteligência (Looker + Sheets + Notebooks)
 Antes:
 
 - Funcionários não conseguiam encontrar dashboards, planilhas ou notebooks.  
@@ -61,7 +61,7 @@ Solução:
 - Implementação de busca por nome e descrição.  
 - Aumento de produtividade e acesso à informação.
 
-### 🔹 4. Dashboard de Gestão de Mostruário
+###  4. Dashboard de Gestão de Mostruário
 Criado para lojas Mobly e Tok&Stok.
 
 Permite:
@@ -78,7 +78,7 @@ Resultado:
 ✔ exposição de produtos ficou mais eficiente  
 ✔ elogios de gerentes de loja
 
-### 🔹 5. Análises e insights estratégicos
+###  5. Análises e insights estratégicos
 - Construção de dashboards no Looker.  
 - Geração de insights comerciais.  
 - Apoio a decisões sobre vendas, estoque e performance.  
@@ -86,7 +86,7 @@ Resultado:
 
 ---
 
-## 🛠 Ferramentas Utilizadas
+##  Ferramentas Utilizadas
 
 - **Databricks (SQL e Python)**  
 - **BigQuery**  
