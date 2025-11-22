@@ -2,12 +2,12 @@
 
 Este repositório apresenta um resumo claro e profissional do meu trabalho como **Estagiária de Dados no Grupo TOKY**, formado pela união entre **Mobly** e **Tok&Stok**.
 
-⚠️ *Nenhum dado, código, planilha, dashboard ou informação interna está sendo compartilhado, conforme política de confidencialidade.*  
-👉 *Caso necessário, posso demonstrar todo o funcionamento e explicar os processos em detalhes durante a entrevista.*
+ *Nenhum dado, código, planilha, dashboard ou informação interna está sendo compartilhado, conforme política de confidencialidade.*  
+ *Caso necessário, posso demonstrar todo o funcionamento e explicar os processos em detalhes durante a entrevista.*
 
 ---
 
-## 📌 Contexto do Trabalho
+##  Contexto do Trabalho
 
 Atuo em um ambiente **pós-fusão**, onde Mobly e Tok&Stok ainda mantêm **bases de dados independentes**, estruturas diferentes e necessidades próprias.
 
@@ -24,7 +24,7 @@ Sou **a única estagiária do time Comercial/Produto**, atuando diretamente com 
 
 ---
 
-## 🚀 Principais Entregas e Impacto Real
+##  Principais Entregas e Impacto Real
 
 ### 🔹 1. Pipelines e ETL usando SQL + Python + Databricks
 - Extração, transformação e modelagem de dados para ambas as empresas.
@@ -97,7 +97,7 @@ Resultado:
 
 ---
 
-## 🎯 O que este case demonstra
+##  O que este case demonstra
 
 - Capacidade de atuar em ambiente complexo pós-fusão  
 - Raciocínio analítico e visão de negócio  
@@ -108,7 +108,7 @@ Resultado:
 
 ---
 
-## 🔍 Sobre confidencialidade
+##  Sobre confidencialidade
 
 Para proteger informações internas, este repositório contém apenas:
 
@@ -117,12 +117,12 @@ Para proteger informações internas, este repositório contém apenas:
 ✔ responsabilidades técnicas  
 ✔ impacto gerado  
 
-⚠️ **Nenhuma informação sensível ou código real foi incluído.**  
-✨ **Todo o processo e as soluções podem ser demonstrados detalhadamente durante a entrevista, caso solicitado.**
+ **Nenhuma informação sensível ou código real foi incluído.**  
+ **Todo o processo e as soluções podem ser demonstrados detalhadamente durante a entrevista, caso solicitado.**
 
 ---
 
-## 📬 Contato
+##  Contato
 
 - LinkedIn: https://www.linkedin.com/in/amanda-lustosa-vital  
 - E-mail: amandalusvital@gmail.com  
